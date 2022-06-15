@@ -5,7 +5,7 @@ If accessibilityTraversalAfter is not used to coerce the reading order, then a F
 reading order in the layouts I've tried, particularly FrameLayout and ConstraintLayout. 
 
 This sample does not demonstrate the alternative layouts I've tried to manipulate FAB reading order
-without accessibilityTraversalAfter, but instead focuses on how even with accessibilityTraversalAfter, 
+without accessibilityTraversalAfter, but instead focuses on how with accessibilityTraversalAfter, 
 the reading order of a FAB is unreliable when the page becomes long enough to scroll.
 
 I've tested this on Android 5.1 (Moto G1), Android 8.1.0 (Moto G5), and Android 12 (Pixel 3) phones,
